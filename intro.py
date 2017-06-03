@@ -1,6 +1,6 @@
 #Find the cube root of perfect cube
 
-def go(arg):
+def go():
     x = int(input('Enter an int: '))
     ans = 0
     while ans**3 < abs(x):
