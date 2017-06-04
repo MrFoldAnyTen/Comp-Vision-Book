@@ -15,4 +15,3 @@ def go():
     plt.title('The EvidenceProvided\nyesterday')
     plt.legend()
     plt.show()
-    print("meh"+arg)
